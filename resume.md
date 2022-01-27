@@ -1,12 +1,13 @@
 Alexander Boudreau
 =
 <img src="appstate-200x200.png" width="100"/>
+
 ####Undergraduate at Appalachian State University
 Email: alexboudreau19@gmail.com
 
 Education
 =
-Bachelor of Science in Community & Regional Planning and Geography Double Major                     *Fall 2022*
+####Bachelor of Science in Community & Regional Planning and Geography Double Major                     *Fall 2022*
 - Understanding of fundamental remote sensing concepts and utilizing remotely sensed data
 for environmental information extraction and problem solving.
 - Gained competence in the use of Geographic Information System (GIS) digital software to combine maps and datasets about environmental events and socioeconomic trends.
