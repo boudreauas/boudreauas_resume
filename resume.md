@@ -16,7 +16,7 @@ design of land use and the built environment.
 
 Work Experience
 =
-Eagle Scout of Boy Scout Troop 101
+Eagle Scout of [Boy Scout Troop 101](https://gsotroop-101.trooptrack.com/share/pages/16601)
 - Patrol Leader, Assistant Patrol Leader, Quartermaster, Den Chief, Order of the Arrow Representative
 
 Starmount Forest Country Club, Greensboro, NC *Summer 2017-Summer 2020*
